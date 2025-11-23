@@ -56,7 +56,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               <Film className="w-6 h-6 text-primary" />
             </div>
             <span className="text-xl font-bold text-white tracking-wide hidden sm:block">
-              Cine<span className="text-primary">Vibe</span>
+              Cine<span className="text-primary">Mavi</span>
             </span>
           </div>
 
